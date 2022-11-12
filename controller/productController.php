@@ -49,7 +49,6 @@ include_once './models/products.php';
         $activityRepository->ActivityOnProduct(null,$admin,$activity,null,$productName,$data);
 
 
-
             header("location:manageProducts.php");
     }
     }
