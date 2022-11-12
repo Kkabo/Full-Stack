@@ -19,7 +19,7 @@ class UserRepository{
         $username = $user->getUsername();
         $email = $user->getEmail();
         $password = $user->getPassword();
-        $role = $user->getRole();
+        $role = $user->getRole(); 
 
         $sql = "INSERT INTO users (UserID,Emri,Mbiemri,Username,Email,Password,Role) VALUES (?,?,?,?,?,?,?)"; //e krijojme nje query
 
