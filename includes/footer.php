@@ -9,4 +9,4 @@
             <p style="color: white; margin-top: 20px;">All Rights Reserved &copy; BestDecision, 2021</p>
         </div>
     </div>
-    </footer>
+    </footer> 
