@@ -13,7 +13,7 @@
 
     	function __construct($id,$fname,$lname,$username,$email,$password,$role){
 			$this->id = $id;
-            $this->fname = $fname;
+            $this->fname = $fname; 
             $this->lname = $lname;
             $this->username = $username;
             $this->email = $email;
